@@ -57,7 +57,7 @@ This project was developed for educational purposes and cybersecurity awareness.
 
 ---
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
 ### Requirements
 
