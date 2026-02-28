@@ -68,4 +68,17 @@ This project was developed for educational purposes and cybersecurity awareness.
 ```bash
 git clone https://github.com/Gnx80s/Password-Strength-Analyzer.git
 cd Password-Strength-Analyzer
-
+```
+---
+## File Structure
+<pre>
+  
+Week_4_Project/
+│
+├── password_strength_analyzer.py/
+│                     
+├── Disclaimer.md/
+│      
+└── ReadMe.md                       
+ 
+</pre>
