@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Password Strength Analyzer** is a lightweight Python application that evaluates the strength of a password based on key security factors such 
+The **Password Strength Analyser** is a lightweight Python application that evaluates the strength of a password based on key security factors such 
 as length, character diversity, and unpredictability. It instantly classifies any password as *Weak*, *Moderate*, or *Strong* and provides improvement suggestions.
 This project was developed for educational purposes and cybersecurity awareness.
 
@@ -13,7 +13,7 @@ This project was developed for educational purposes and cybersecurity awareness.
 - Evaluates passwords instantly through the command line
 - Checks for uppercase, lowercase, numeric, and special characters
 - Detects common or predictable password patterns
-- Displays personalized improvement feedback
+- Displays personalised improvement feedback
 - Uses a scoring system (0–10 points)
 - 100% local execution — no data storage or external connection
 
@@ -38,7 +38,7 @@ This project was developed for educational purposes and cybersecurity awareness.
    User enters a password via the command line.
 
 2. **Evaluation Stage**  
-   The analyzer checks:
+   The analyser checks:
    - Minimum length requirements  
    - Uppercase and lowercase characters  
    - Numbers and special characters  
@@ -66,8 +66,8 @@ This project was developed for educational purposes and cybersecurity awareness.
 ### Installation
 
 ```bash
-git clone https://github.com/Gnx80s/Password-Strength-Analyzer.git
-cd Password-Strength-Analyzer
+git clone https://github.com/Gnx80s/Week_4_Project.git
+cd Week_4_Project
 ```
 ---
 ## File Structure
@@ -75,7 +75,7 @@ cd Password-Strength-Analyzer
   
 Week_4_Project/
 │
-├── password_strength_analyzer.py/
+├── password_strength_analyzer.py
 │                     
 ├── Disclaimer.md/
 │      
